@@ -11,7 +11,7 @@ To get a local copy up and running:
 
 1. Clone this repository or download the zip folder:
 
-**``git clone https://github.com/HtetNaing0814/awesome-books.git``**
+**``git@github.com:TuyishimireEric/Webpack.git``**
 
 2. Navigate to the location of the folder in your machine:
 
@@ -35,7 +35,7 @@ Here is the online version of [webpack]()
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/TuyishimireEric/Awesome-books-with-ES6/issues).
+Feel free to check the [issues page](https://github.com/TuyishimireEric/Webpack/issues).
 
 ## Show your support
 
